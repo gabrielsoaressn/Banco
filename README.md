@@ -1,13 +1,13 @@
-## Iniciando
+## Getting Started
 
-A IDE utilizada para gerar o arquivo foi o VS code. Portanto, ela organizou assim: 
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Estrutura de Arquivo
+## Folder Structure
 
-O _workspace_ contem duas pastas, onde:
+The workspace contains two folders by default, where:
 
-- `src`: o arquivo mantem o  código fonte
-- `lib`: mantém dependências
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
@@ -18,5 +18,5 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
 
 
-## Projeto Banco
-O projeto proposto para que utilize-se Programação Orientada a Objetos na linguagem java, para simular um sistema que gerencia um banco.
+## Projeto Banco (DIO - Bootcamp Java #4)
+-   O projeto proposto pela dio é para que utilize-se Programação Orientada a Objetos na linguagem java, para simular um sistema que gerencia um banco.
