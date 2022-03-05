@@ -1,4 +1,4 @@
-#Objetivo do sistema
+# Objetivo do sistema
 O objetivo é entregar ao cliente uma solução para o gerenciar um banco.
 ## 1 - Especificidade(S) 
 ### O que será atingido com isso?
@@ -14,6 +14,13 @@ Porque java é uma linguagem muito utilizada no mercado de trabalho e é orienta
 
 ## 2 - Mensurabilidade(M)
 ### Qual o resultado esperado da meta?
-Que o programa fique pronto para o uso
+Que o programa fique pronto para o uso de gerente e cliente.
 
-###
+### Quanto tempo isso vai custar?
+3 meses.
+
+## 3 - Atingibilidade(A)
+### O time é capaz de atingir essa meta?
+Sim, de acordo com o histórico dos devs é completamente plausível.
+
+## 
